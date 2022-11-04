@@ -1,5 +1,5 @@
 # Fb-Bot
-Facebook bot for posting automatically in facebook,
+Facebook bot
 
 ## Overview
 This program automatically posts a picture in facebook page after a certain time.
